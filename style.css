@@ -1,0 +1,166 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #4e73df, #18c3f8);
+  margin: 0;
+  padding: 0;
+}
+
+.biodata {
+  text-align: center;
+  padding: 20px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.card-1 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.card-2{
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.card-3 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.card-4 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.card-5 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.card-6 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.card-7 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+h1 {
+  color: #f8f9fa;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 25px;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+table th {
+  background-color: #4e73df;
+  color: white;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tr:nth-child(odd) {
+  background-color: white;
+}
+
+.motto {
+  background: white;
+}
+
+.button {
+  text-align:center
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #1dfd55;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s;
+  text-align: center;
+}
+.btn-2 {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #182af9;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #17a673;
+}
+
+.jadwal-pelajaran {
+  background: white;
+
+}
+
+.highlight {
+    background: yellow;
+    font-weight: bold;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
